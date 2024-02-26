@@ -1,6 +1,6 @@
 # Table of contents
 
-* [EMS](README.md)
+* [EMS](ems/README.md)
   * [支路设计](ems/zhi-lu-she-ji.md)
   * [充放电策略](ems/chong-fang-dian-ce-lve.md)
 * [WAD](wad/README.md)
